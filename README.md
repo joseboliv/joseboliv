@@ -22,7 +22,7 @@ Full-Stack | Web | Mobile (Flutter && Xamarin)
 
 ## Mis redes sociales
 
-<a href="https://twitter.com/Jose_boliv>
+<a href="https://twitter.com/Jose_boliv">
   <img align="left" alt="damianrincondrc" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
 <a href="https://www.linkedin.com/in/jose17140/">
