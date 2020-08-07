@@ -3,7 +3,7 @@
 
 # Hola, soy desarrollador.
 
-Full-Stack | Web | Mobile (Flutter && Xamarin)
+Full-Stack | .Net | Mobile (Flutter && Xamarin)
 
 [![Github](https://img.shields.io/github/followers/joseboliv?style=social)](https://github.com/joseboliv)
 [![Github](https://img.shields.io/github/last-commit/joseboliv/joseboliv)](https://github.com/joseboliv/joseboliv)
